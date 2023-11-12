@@ -10,4 +10,4 @@
 #  GitHub Stats:
 
 
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sqbpy&theme=darcula) | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sqbpy&theme=darcula) | 
+ ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sqbpy&theme=darcula)  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sqbpy&theme=darcula)  
