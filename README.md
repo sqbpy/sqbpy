@@ -1,8 +1,11 @@
 <br clear="both">
 
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is sqbpy
+<h1 align="center">Hello I am sqbpy</h1>
 
-I'm learning Python and programming
+###
+
+<p align="left"></p>
+
 ###
 
 <div align="center">
