@@ -1,5 +1,6 @@
+### Hello! 👋
 #  About Me:
-
+My name is Jonasz
 
 - 🚀  I'm currently working on [Expanding the Simple\_project](https://github.com/sqbpy/Simple_Project)<br> 
 - 🧠  I'm learning Python , SQL and Git<br> 
